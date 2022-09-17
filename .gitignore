@@ -47,6 +47,10 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/ProjectSettings.asset
+UserSettings/Layouts/default-2021.dwlt
 
 # Unity3D generated file on crash reports
 sysinfo.txt
